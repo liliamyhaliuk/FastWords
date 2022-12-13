@@ -1,0 +1,2 @@
+# FastWords
+Python project
